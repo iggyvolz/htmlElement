@@ -1,0 +1,7 @@
+{
+    "name": "iggyvolz/htmlElement",
+    "description": "A simple PHP class that allows you to write HTML tags through while() loops.",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
