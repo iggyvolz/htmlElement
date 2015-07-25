@@ -1,5 +1,5 @@
 <?php
-
+require "vendor/autoload.php";
 /*
   htmlElement, a simple class to integrate PHP into HTML
   Copyright (C) 2014  iggyvolz
